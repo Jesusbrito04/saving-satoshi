@@ -1914,7 +1914,7 @@ const translations = {
         bullet_one:
           'Mika 3000 gets 100,000,000 satoshis to bc1qgghq08syehkym52ueu9nl5x8gth23vr8hurv9dyfcmhaqk4lrlgs28epwj',
         bullet_two:
-          'You get 61,000,000 back to your address bc1qm2dr49zrgf9wc74h5c58wlm3xrnujfuf5g80hs',
+          'You get 61,000,000 back to your address bc1qkg62ae0wwntkzhq8td87s87c4nj5zdlj2ga8j7',
         success: "You've done it! You've built a transaction!",
       },
       hard: {
